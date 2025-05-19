@@ -25,5 +25,8 @@ This project explores national and regional trends in NHS antidepressant prescri
 
 - ## 📬 Contact  
 [Connect with me on LinkedIn](http://linkedin.com/in/ruth-chime-5a133a146)
+## 🔗 Live Dashboard
+[Click here to view the live dashboard](https://nhs-antidepressant--analysis-1.onrender.com)
+
 
 
